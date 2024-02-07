@@ -1,2 +1,2 @@
 # DAT
-Official code for "Skeletons Are Created Equal, but Modeled Differently. Can We Fix This?"
+Official code for "All Skeletons are created equal! A domain adaptation transformer to handle multiple topologies"
